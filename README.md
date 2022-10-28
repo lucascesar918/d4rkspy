@@ -10,4 +10,4 @@ Feel free to complement the code and fork it.
 ## How to use?
 d4rkspy is meant to be used in terminal, therefore is recommended to start making the main file executable. Then the application must be started following the example below:
 
-_d4rks.py [address] [dictionary]_
+_d4rks.py [address] [dictionary file]_
