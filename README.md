@@ -1,4 +1,4 @@
-# d4rkspy
+# d4rks.py
 Website spider built using Python
  
 This is a tool that bruteforces a website address to find domains
